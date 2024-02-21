@@ -1,0 +1,14 @@
+@media only screen and (min-width:300px) and (max-width:900px)
+{
+.mt-smc-2
+{
+    margin-top: 1.5rem;
+}
+.profile .nav-tabs .nav-link {
+ font-size: 12px;
+  }
+  .notifications.show
+  {
+    transform: translate3d(9.727px, 50.9091px, 0px)!important;
+  }
+}
